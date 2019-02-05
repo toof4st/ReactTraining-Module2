@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-
 const questionList = [
   {
     question: "8 x 1",
