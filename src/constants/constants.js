@@ -1,0 +1,5 @@
+const SELECT_PORTFOLIO = "SELECT_PORTFOLIO";
+
+module.exports = {
+  SELECT_PORTFOLIO
+};

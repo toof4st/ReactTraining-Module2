@@ -1,3 +1,9 @@
 .App {
   font-family: sans-serif;
 }
+.Search {
+  background-color: green;
+}
+.Grouping {
+  background-color: cyan;
+}
